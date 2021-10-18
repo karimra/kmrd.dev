@@ -15,7 +15,7 @@ enableEmoji = true
   [params.home]
     [params.home.profile]
       enable = true
-      avatarURL = "static/images/me.jpeg"
+      avatarURL = "images/me.jpeg"
       title = ""
       subtitle = "Hey there, I am a Network Engineer with a passion for Automation and Product Development."
       social = true

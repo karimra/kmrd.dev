@@ -13,3 +13,4 @@ url: about
 ## Contact
 
 LinkedIn - [Karim Radhouani](https://linkedin.com/in/karim-radhouani)
+Twitter - [karimtw_](https://twitter.com/Karimtw_)
